@@ -1,0 +1,44 @@
+html{
+    background-color:forestgreen;
+    padding: 40px;
+    width: 170px;
+    height: 100%;
+    margin: 0 auto;
+  }
+  
+  .trafficlight{
+    background: white;
+    width: 170px;
+    height: 450px;
+  }
+
+  .red{
+    background: red; 
+    width: 170px;
+    height: 150px;
+    top: 20px;
+    left: 35px;
+    border: solid 5px darkred;
+  }
+  .yellow{
+      background: yellow;
+      width: 170px;
+      height: 150px;
+      top: 40px;
+      left: 35px;
+      border: solid 5px darkorange;
+  }
+  .green{
+    background: green;
+    width: 170px;
+    height: 150px;
+    top: 40px;
+    left: 35px;
+    border: solid 5px darkolivegreen;
+  }
+  .p{
+    color: darkolivegreen;
+  }
+
+  
+  
